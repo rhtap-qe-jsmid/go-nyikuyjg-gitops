@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jsmid/go-nyikuyjg:8f396cc7546cfa6f00d7a9a34afd5bfaead143c1@sha256:1e4d7b8ad422bb8b4694f07af645ad2024eaabdd864e8c7dff51755658963128
+        - image: quay.io/jsmid/go-nyikuyjg:ddcf22f202649711951d29f349c34010e260f96b@sha256:ca5262690e09bd509e336023cb3a6700f2e40b766a61f9b6b2db625dffaa7ee5
           name: container-image
